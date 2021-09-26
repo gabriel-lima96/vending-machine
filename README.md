@@ -12,6 +12,8 @@
 
 - [ ] The machine should have a limited amount of products
 - [ ] The machine should have a limited amount for each coin
+- [ ] It should have a stateful experience, keeping the amount of products and coins inside the machine between each execution
+  - [ ] In case it keeps state, it should have admin commands to restock products and remove coins 
 
 ## Input example
 
