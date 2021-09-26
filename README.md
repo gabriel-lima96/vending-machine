@@ -17,19 +17,19 @@
 
 ## Input example
 
-\>0.25 <kbd>ENTER</kdb>
+\>0.25 <kbd>ENTER</kdb>  
 <br/>
 Ok
 
-\>1.00 <kbd>ENTER</kdb>
+\>1.00 <kbd>ENTER</kdb>  
 <br/>
 Ok
 
-\>1.00 <kbd>ENTER</kdb>
+\>1.00 <kbd>ENTER</kdb>  
 <br/>
 Ok
 
-\>COKE <kbd>ENTER</kdb>
+\>COKE <kbd>ENTER</kdb>  
 <br/>
 Ok, Change is 0.25
 
