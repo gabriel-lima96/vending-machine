@@ -8,6 +8,11 @@
 - [ ] The system should check for valid coins during the insertion.
 - [ ] The system should also validate if the money inserted on the vending machine is enough to buy a product.
 
+### Extra
+
+- [ ] The machine should have a limited amount of products
+- [ ] The machine should have a limited amount for each coin
+
 ## Input example
 
 \>0.25 <kbd>ENTER</kdb><br>
