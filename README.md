@@ -18,18 +18,14 @@
 ## Input example
 
 \>0.25 <kbd>ENTER</kbd>  
-<br/>
 Ok
 
 \>1.00 <kbd>ENTER</kbd>  
-<br/>
 Ok
 
 \>1.00 <kbd>ENTER</kbd>  
-<br/>
 Ok
 
 \>COKE <kbd>ENTER</kbd>  
-<br/>
 Ok, Change is 0.25
 
