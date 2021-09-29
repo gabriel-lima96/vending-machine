@@ -105,3 +105,6 @@ dist
 
 # Built files
 dist
+
+# Sqlite Database
+data/database.sqlite
